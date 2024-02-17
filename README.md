@@ -8,7 +8,7 @@ Machine_Learning_Specialization_Practice_Labs
 
 A collection of my machine learning specialization practice labs.
 
-吴恩达机器学习专项课程实践实验室（课程作业）合集。
+吴恩达机器学习专项课程实践实验室合集。
 
 > Relevant course
 > * [Machine Learning Specialization Andrew Ng (吴恩达机器学习专项课程)](https://www.coursera.org/specializations/machine-learning-introduction)
