@@ -10,7 +10,7 @@ A collection of my machine learning specialization (Andrew Ng) practice labs.
 
 吴恩达机器学习专项课程实践实验室（课程作业）合集。
 
-> Relevant course
+> ***Relevant course***
 > * [Machine Learning Specialization Andrew Ng (吴恩达机器学习专项课程)](https://www.coursera.org/specializations/machine-learning-introduction)
 
 ## 仓库组成
@@ -50,4 +50,4 @@ A collection of my machine learning specialization (Andrew Ng) practice labs.
 
 ## 文档更新日期
 
-2024年2月19日
+2024年3月10日
