@@ -34,7 +34,7 @@ A collection of my machine learning specialization (Andrew Ng) practice labs.
 实践实验室06 决策树
 
 * [Lab07 K-means Clustering](Lab07_K-means_Clustering)
-实践实验室07 K均值聚类
+实践实验室07 K 均值聚类
 
 * [Lab08 Anomaly Detection](Lab08_Anomaly_Detection)
 实践实验室08 异常检测
@@ -46,8 +46,13 @@ A collection of my machine learning specialization (Andrew Ng) practice labs.
 实践实验室10 基于内容的深度学习过滤
 
 * [Lab11 Lunar Lander Based on Q-Learning](Lab11_Lunar_Lander_Based_on_Q-Learning)
-实践实验室11 基于Q学习的月球着陆器
+实践实验室11 基于 Q 学习的月球着陆器
+
+## 相关仓库
+
+* [Lunar Lander Based on DQN](https://github.com/MinmusLin/Introduction_to_Artificial_Intelligence_Course_Assignments/tree/main/Lunar_Lander_Based_on_DQN)
+强化学习实验：基于 Deep Q-Network 的月球着陆器
 
 ## 文档更新日期
 
-2024年3月10日
+2024年7月3日
