@@ -1,11 +1,5 @@
 # Machine Learning Specialization Practice Labs
 
-## 仓库名称
-
-Machine_Learning_Specialization_Practice_Labs
-
-## 仓库简介
-
 A collection of my machine learning specialization (Andrew Ng) practice labs.
 
 吴恩达机器学习专项课程实践实验室（课程作业）合集。
@@ -52,7 +46,3 @@ A collection of my machine learning specialization (Andrew Ng) practice labs.
 
 * [Lunar Lander Based on DQN](https://github.com/MinmusLin/Introduction_to_Artificial_Intelligence_Course_Assignments/tree/main/Lunar_Lander_Based_on_DQN)
 强化学习实验：基于 Deep Q-Network 的月球着陆器
-
-## 文档更新日期
-
-2024年7月3日
